@@ -1,1 +1,1 @@
-# Texteditor
+Resolve merge conflict in README.md
